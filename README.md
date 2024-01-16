@@ -1,5 +1,11 @@
 # collect_array
 
+[![Crates.io](https://img.shields.io/crates/v/collect_array)](https://crates.io/crates/collect_array)
+[![Downloads](https://img.shields.io/crates/d/collect_array.svg)](https://crates.io/crates/collect_array)
+[![Documentation](https://docs.rs/collect_array/badge.svg)](https://docs.rs/collect_array)
+[![License](https://img.shields.io/crates/l/collect_array)](https://crates.io/crates/collect_array)
+[![Dependency Status](https://deps.rs/repo/github/JohnScience/collect_array/status.svg)](https://deps.rs/repo/github/JohnScience/collect_array)
+
 This is a simple library for collecting an instance of `It`: [`std::iter::Iterator<Item=T>`](https://doc.rust-lang.org/std/iter/trait.Iterator.html) into an array `[T; N]` where `N` is the presumed length of the iterator.
 
 ## Example
