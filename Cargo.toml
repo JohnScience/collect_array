@@ -1,8 +1,12 @@
 [package]
 name = "collect_array"
-version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+version = "0.1.0"
+authors = ["Dmitrii Demenev <demenev.dmitriy1@gmail.com>"]
+description = "Collect an iterator into an array."
+documentation = "https://docs.rs/collect_array"
+readme = "README.md"
+keywords = ["collect", "iterator", "array"]
+categories = ["rust-patterns"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/JohnScience/collect_array"
