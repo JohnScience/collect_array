@@ -1,4 +1,6 @@
-use std::mem::MaybeUninit;
+#![no_std]
+
+use core::mem::MaybeUninit;
 
 trait CollectArray: Iterator {
     fn collect_array<const N: usize>(mut self) -> Option<[Self::Item; N]>

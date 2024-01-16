@@ -7,6 +7,6 @@ description = "Collect an iterator into an array."
 documentation = "https://docs.rs/collect_array"
 readme = "README.md"
 keywords = ["collect", "iterator", "array"]
-categories = ["rust-patterns"]
+categories = ["rust-patterns", "no-std", "no-std::no-alloc"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/JohnScience/collect_array"
