@@ -1,12 +1,12 @@
 [package]
-name = "collect_array"
+name = "collect_array_ext_trait"
 edition = "2021"
 version = "0.1.0"
 authors = ["Dmitrii Demenev <demenev.dmitriy1@gmail.com>"]
 description = "Collect an iterator into an array."
-documentation = "https://docs.rs/collect_array"
+documentation = "https://docs.rs/collect_array_ext_trait"
 readme = "README.md"
 keywords = ["collect", "iterator", "array"]
 categories = ["rust-patterns", "no-std", "no-std::no-alloc"]
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/JohnScience/collect_array"
+repository = "https://github.com/JohnScience/collect_array_ext_trait"
