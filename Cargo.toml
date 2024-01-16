@@ -1,7 +1,7 @@
 [package]
 name = "collect_array_ext_trait"
 edition = "2021"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Dmitrii Demenev <demenev.dmitriy1@gmail.com>"]
 description = "Collect an iterator into an array."
 documentation = "https://docs.rs/collect_array_ext_trait"
